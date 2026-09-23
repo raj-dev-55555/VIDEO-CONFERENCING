@@ -1,7 +1,8 @@
 .landingPageContainer {
   width: 100vw;
   height: 100vh;
-  background: url("/public/background.png");
+  /* background: url("/public/background.png"); */
+  background: url("public\colleagues-having-video-conference-coronavirus-pandemic_53876-138970.avif");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
